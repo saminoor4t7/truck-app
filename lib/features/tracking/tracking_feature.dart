@@ -1,0 +1,3 @@
+class TrackingFeature {
+  const TrackingFeature();
+}

@@ -1,0 +1,3 @@
+class ManifestsFeature {
+  const ManifestsFeature();
+}

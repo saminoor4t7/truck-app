@@ -1,0 +1,3 @@
+class DashboardFeature {
+  const DashboardFeature();
+}

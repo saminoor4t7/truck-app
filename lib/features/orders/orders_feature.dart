@@ -1,0 +1,3 @@
+class OrdersFeature {
+  const OrdersFeature();
+}

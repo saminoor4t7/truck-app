@@ -1,0 +1,3 @@
+class ScannerFeature {
+  const ScannerFeature();
+}

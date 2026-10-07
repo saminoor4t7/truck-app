@@ -1,0 +1,3 @@
+class PodSignatureFeature {
+  const PodSignatureFeature();
+}

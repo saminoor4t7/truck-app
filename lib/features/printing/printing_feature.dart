@@ -1,0 +1,3 @@
+class PrintingFeature {
+  const PrintingFeature();
+}
